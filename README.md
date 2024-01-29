@@ -7,10 +7,6 @@
 - Here you can find my projects
 - You can contact me here: **aquinosantiagodani@gmail.com** 📫
 
-<h1 align="center">
- <img src="https://i.postimg.cc/sgmXz3pj/fondo-github.png" />
-</h1>
-
 <h3 align="left">Connect with me:</h3>
 
 
