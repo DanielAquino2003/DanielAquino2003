@@ -8,7 +8,7 @@
 
 ## Conéctate Conmigo
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Contact with me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/danielaquino2003/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
