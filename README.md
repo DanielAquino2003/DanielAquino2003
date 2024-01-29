@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-QhLlLUxVa7yA6CfoSlHgemZyUwPGPsQhMOP3OVfaVZMB7VPS1InCvBE5etC+mk9iXzXMME6tb3a1yR7lmeIoYg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+
 <h3 align="center">I am a Software Engineer from the UAM and 42</h3>
 
 - Here you can find my projects
