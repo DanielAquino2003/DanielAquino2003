@@ -1,10 +1,10 @@
-# ¡Hola! 👋 Soy Daniela Quino, un apasionado ingeniero de software estudiando en la UAM y participando en proyectos en la escuela 42.
+# ¡Hola! 👋 Soy Daniel Aquino, un apasionado ingeniero de software estudiando en la UAM y participando en proyectos en la escuela 42.
 
 ## Proyectos Destacados
 
-- [Proyecto 1](enlace-al-proyecto-1): Breve descripción del proyecto y su relevancia.
-- [Proyecto 2](enlace-al-proyecto-2): Breve descripción del proyecto y su relevancia.
-- [Proyecto 3](enlace-al-proyecto-3): Breve descripción del proyecto y su relevancia.
+- [42](https://github.com/DanielAquino2003/gnl): Breve descripción del proyecto y su relevancia.
+- [Universidad](https://github.com/DanielAquino2003/gnl): Breve descripción del proyecto y su relevancia.
+- [Proyectos personales](https://github.com/DanielAquino2003/gnl): Breve descripción del proyecto y su relevancia.
 
 ## Conéctate Conmigo
 
