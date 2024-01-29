@@ -8,12 +8,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/danielaquino2003/" target="_blank" rel="noreferrer">
-    <img src="ruta-del-icono-linkedin" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="aquinosantiagodani@gmail.com" target="_blank" rel="noreferrer">
-    <img src="ruta-del-icono-mail" alt="Email" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
   </a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
