@@ -11,24 +11,39 @@ Hi there! I'm Daniel Aquino, a computer engineering student at UAM and an active
 
 ## Lenguajes y Herramientas
 
+### Lenguajes
 <p align="left">
+  <!-- C -->
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
+  <!-- Java -->
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   </a>
+  <!-- Python -->
   <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
+  <!-- Ensamblador -->
+  <!-- Agrega el enlace y el icono correspondiente para el lenguaje ensamblador -->
+</p>
+
+### Infraestructuras o Frameworks
+<p align="left">
+  <!-- MongoDB -->
+  <!-- Agrega el enlace y el icono correspondiente para MongoDB -->
+  <!-- Cypher -->
+  <!-- Agrega el enlace y el icono correspondiente para Cypher -->
+  <!-- Redis -->
+  <!-- Agrega el enlace y el icono correspondiente para Redis -->
+  <!-- SQL -->
   <a href="https://www.sql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
   </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  <!-- Docker -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
   </a>
 </p>
 
