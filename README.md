@@ -17,7 +17,6 @@ Hi there! I'm Daniel Aquino, a computer engineering student at UAM and an active
 ![Cypher](https://img.shields.io/badge/Cypher-a?style=for-the-badge&logo=cypher&color=grey)
 ![SQL](https://img.shields.io/badge/SQL-a?style=for-the-badge&logo=mysql&color=grey)
 ![Assembler](https://img.shields.io/badge/Assembler-a?style=for-the-badge&logo=assemblyscript&color=grey)
-![VHDL](https://img.shields.io/badge/VHDL-a?style=for-the-badge&logo=vhdl&color=grey)
 
 #### 🌐 Infrastructure 
 ![MongoDB](https://img.shields.io/badge/MongoDB-a?style=for-the-badge&logo=mongodb&color=grey)
