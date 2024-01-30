@@ -25,10 +25,6 @@ Hi there! I'm Daniel Aquino, a computer engineering student at UAM and an active
   <a href="https://www.python.org/" target="_blank" rel="noreferrer" title="Python">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <!-- Ensamblador -->
-  <a href="#" target="_blank" rel="noreferrer" title="Ensamblador">
-    <img src="URL_DEL_ICONO_DE_ENSAMBLADOR" alt="Ensamblador" width="40" height="40"/>
-  </a>
 </p>
 
 ### Infraestructuras o Frameworks
@@ -36,10 +32,6 @@ Hi there! I'm Daniel Aquino, a computer engineering student at UAM and an active
   <!-- MongoDB -->
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" title="MongoDB">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <!-- Cypher -->
-  <a href="#" target="_blank" rel="noreferrer" title="Cypher">
-    <img src="URL_DEL_ICONO_DE_CYPHER" alt="Cypher" width="40" height="40"/>
   </a>
   <!-- Redis -->
   <a href="https://redis.io/" target="_blank" rel="noreferrer" title="Redis">
