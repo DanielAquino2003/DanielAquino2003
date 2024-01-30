@@ -2,7 +2,7 @@
 
 ## Proyectos Destacados
 
-- [42](https://github.com/DanielAquino2003/UAM): UAM(Autonomous University of Madrid) projects
+- [42](https://github.com/DanielAquino2003/UAM): UAM projects
 - [Universidad](https://github.com/DanielAquino2003/42): 42 Projects
 - [Proyectos personales](https://github.com/DanielAquino2003/Personal-Projetcts): Personal Projects
 
