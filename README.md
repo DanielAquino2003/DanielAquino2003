@@ -15,19 +15,18 @@ Hi there! I'm Daniel Aquino, a computer engineering student at UAM and an active
 ![Python](https://img.shields.io/badge/Python-a?style=for-the-badge&logo=python&color=grey)
 ![Javascript](https://img.shields.io/badge/Javascript-a?style=for-the-badge&logo=javascript&color=grey)
 ![Cypher](https://img.shields.io/badge/Cypher-a?style=for-the-badge&logo=cypher&color=grey)
-![Prolog](https://img.shields.io/badge/Prolog-a?style=for-the-badge&logo=prolog&color=grey)
+![SQL](https://img.shields.io/badge/SQL-a?style=for-the-badge&logo=mysql&color=grey)
+![Assembler](https://img.shields.io/badge/Assembler-a?style=for-the-badge&logo=assemblyscript&color=grey)
+![VHDL](https://img.shields.io/badge/VHDL-a?style=for-the-badge&logo=vhdl&color=grey)
 
 #### 🌐 Infrastructure 
 ![MongoDB](https://img.shields.io/badge/MongoDB-a?style=for-the-badge&logo=mongodb&color=grey)
 ![Redis](https://img.shields.io/badge/Redis-a?style=for-the-badge&logo=redis&color=grey)
-![SQL](https://img.shields.io/badge/SQL-a?style=for-the-badge&logo=mysql&color=grey)
 ![Docker](https://img.shields.io/badge/Docker-a?style=for-the-badge&logo=docker&color=grey)
 
 #### 🛠 Other tools
 ![VIM](https://img.shields.io/badge/VIM-a?style=for-the-badge&logo=vim&color=grey)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-a?style=for-the-badge&logo=visualstudiocode&color=grey)
-![Assembler](https://img.shields.io/badge/Assembler-a?style=for-the-badge&logo=assemblyscript&color=grey)
-![VHDL](https://img.shields.io/badge/VHDL-a?style=for-the-badge&logo=vhdl&color=grey)
 
 ## Contact with me
 <p align="left">
