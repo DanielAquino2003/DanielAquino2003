@@ -1,4 +1,4 @@
-# ¡Hola! 👋 Soy Daniel Aquino, un apasionado ingeniero de software estudiando en la UAM y participando en proyectos en la escuela 42.
+# Hey there! 👋 I'm Daniel Aquino, a passionate software engineer studying at UAM (Autonomous Metropolitan University) and participating in projects at school 42.
 
 ## 👨🏻‍💻Proyectos Destacados👨🏻‍💻
 
