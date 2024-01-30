@@ -34,13 +34,17 @@ Hi there! I'm Daniel Aquino, a computer engineering student at UAM and an active
 
 ## Contact with me
 <p align="left">
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/danielaquino2003/" target="_blank" rel="noreferrer" title="LinkedIn">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
   </a>
+  <!-- Email -->
   <a href="mailto:aquinosantiagodani@gmail.com" target="_blank" rel="noreferrer" title="Email">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
   </a>
+  <!-- Twitter -->
   <a href="https://twitter.com/tu_usuario_de_twitter" target="_blank" rel="noreferrer" title="Twitter">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
   </a><br>
 </p>
+
