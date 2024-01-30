@@ -1,6 +1,6 @@
 # Daniel Aquino
 
-## About me
+## 👨🏻‍💻 About me
 Hi there! I'm Daniel Aquino, a computer engineering student at UAM and an active participant in projects at school 42. Passionate about coding and problem-solving, I love turning theoretical knowledge into practical solutions. Let's connect and explore the world of technology together! 💻✨
 
 ## 💼 Featured projects
@@ -47,16 +47,10 @@ Hi there! I'm Daniel Aquino, a computer engineering student at UAM and an active
   </a><br>
 </p>
 
-## Stats
+## 📊 Stats
 
 <a> 
     <a href="https://github.com/DanielAquino2003"><img alt="Daniel Aquino's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DanielAquino2003&show_icons=true&include_all_commits=true&theme=calm&card_width=300" height="180px"/></a>
     <a href="https://github.com/DanielAquino2003"><img alt="Daniel Aquino's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DanielAquino2003&langs_count=8&layout=compact&theme=calm&card_width=300" height="180px"/></a>
     <br/>
 </a>
-
-### 📊 Weekly Coding Stats
-
-<!-- Add the link to your WakaTime dashboard here -->
-[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=DanielAquino2003&theme=radical&layout=compact)](https://wakatime.com/@DanielAquino2003)
-
