@@ -1,6 +1,8 @@
 # Hey there! 👋 I'm Daniel Aquino, a passionate software engineer studying at UAM (Autonomous University of Madrid) and 42 Madrid.
 
-## 👨🏻‍💻Proyectos Destacados👨🏻‍💻
+## About me
+
+## 👨🏻‍💻Proyectos Destacados
 
 - [UAM](https://github.com/DanielAquino2003/UAM): UAM projects
 - [42](https://github.com/DanielAquino2003/42): 42 Projects
