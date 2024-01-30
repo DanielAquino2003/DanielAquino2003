@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Daniel Aquino, un apasionado ingeniero de software estudiando en la UAM y participando en proyectos en la escuela 42.
 
-## Proyectos Destacados
+## 👨🏻‍💻Proyectos Destacados👨🏻‍💻
 
 - [42](https://github.com/DanielAquino2003/UAM): UAM projects
 - [Universidad](https://github.com/DanielAquino2003/42): 42 Projects
