@@ -18,7 +18,7 @@ Hi there! I'm Daniel Aquino, a computer engineering student at UAM and an active
 ![SQL](https://img.shields.io/badge/SQL-a?style=for-the-badge&logo=mysql&color=grey)
 ![Assembler](https://img.shields.io/badge/Assembler-a?style=for-the-badge&logo=assemblyscript&color=grey)
 
-#### 🖥️ Infrastructure 
+#### 🖥️ Infrastructures
 ![MongoDB](https://img.shields.io/badge/MongoDB-a?style=for-the-badge&logo=mongodb&color=grey)
 ![Redis](https://img.shields.io/badge/Redis-a?style=for-the-badge&logo=redis&color=grey)
 ![Docker](https://img.shields.io/badge/Docker-a?style=for-the-badge&logo=docker&color=grey)
