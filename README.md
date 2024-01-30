@@ -6,22 +6,6 @@
 - [42](https://github.com/DanielAquino2003/42): 42 Projects
 - [Personal Projects](https://github.com/DanielAquino2003/Personal-Projetcts): Personal Projects
 
-## Contact with me
-<p align="left">
-  <a href="https://www.linkedin.com/in/danielaquino2003/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-  <a href="mailto:aquinosantiagodani@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
-  </a>
-  <a href="https://twitter.com/tu_usuario_de_twitter" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
-  </a><br>
-</p>
-
-
-
-
 ## Lenguajes y Herramientas
 
 <p align="left">
@@ -45,4 +29,15 @@
   </a>
 </p>
 
-
+## Contact with me
+<p align="left">
+  <a href="https://www.linkedin.com/in/danielaquino2003/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="mailto:aquinosantiagodani@gmail.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
+  </a>
+  <a href="https://twitter.com/tu_usuario_de_twitter" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+  </a><br>
+</p>
