@@ -14,7 +14,6 @@
   <a href="mailto:aquinosantiagodani@gmail.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
   </a><br>
-  aquinosantiagodani@gmail.com
 </p>
 
 ## Lenguajes y Herramientas
