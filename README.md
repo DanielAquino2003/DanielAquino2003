@@ -1,6 +1,7 @@
-# Hey there! 👋 I'm Daniel Aquino, a passionate software engineer studying at UAM (Autonomous University of Madrid) and 42 Madrid.
+# Daniel Aquino
 
 ## About me
+Hi there! I'm Daniel Aquino, a computer engineering student at UAM and an active participant in projects at school 42. Passionate about coding and problem-solving, I love turning theoretical knowledge into practical solutions. Let's connect and explore the world of technology together! 💻✨
 
 ## 👨🏻‍💻Proyectos Destacados
 
