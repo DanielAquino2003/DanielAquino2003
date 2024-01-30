@@ -2,9 +2,9 @@
 
 ## Proyectos Destacados
 
-- [42](https://github.com/DanielAquino2003/gnl): Implementación de Get Next Line (GNL) para el proyecto 42.
-- [Universidad](https://github.com/DanielAquino2003/gnl): Proyecto universitario con una breve descripción.
-- [Proyectos personales](https://github.com/DanielAquino2003/gnl): Proyectos personales con una breve descripción.
+- [42](https://github.com/DanielAquino2003/UAM): UAM(Autonomous University of Madrid) projects
+- [Universidad](https://github.com/DanielAquino2003/42): 42 Projects
+- [Proyectos personales](https://github.com/DanielAquino2003/Personal-Projetcts): Personal Projects
 
 ## Conéctate Conmigo
 
