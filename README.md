@@ -11,7 +11,7 @@ Hi there! I'm Daniel Aquino, a computer engineering student at UAM and an active
 
 #### 📖 Languages
 ![C](https://img.shields.io/badge/C-a?style=for-the-badge&logo=C&color=grey)
-![Java](https://img.shields.io/badge/Java-a?style=for-the-badge&logo=java&color=grey)
+![Java](https://img.shields.io/badge/Java-a?style=for-the-badge&logo=java&logoColor=grey&color=grey)
 ![Python](https://img.shields.io/badge/Python-a?style=for-the-badge&logo=python&color=grey)
 ![Javascript](https://img.shields.io/badge/Javascript-a?style=for-the-badge&logo=javascript&color=grey)
 ![Cypher](https://img.shields.io/badge/Cypher-a?style=for-the-badge&logo=cypher&color=grey)
