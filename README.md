@@ -15,12 +15,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
   </a>
   <a href="https://www.instagram.com/tu_usuario_de_instagram/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/social/social-original.svg" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://twitter.com/tu_usuario_de_twitter" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
   </a><br>
 </p>
+
 
 
 ## Lenguajes y Herramientas
