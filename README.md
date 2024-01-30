@@ -6,7 +6,7 @@
 - [42](https://github.com/DanielAquino2003/42): 42 Projects
 - [Personal Projects](https://github.com/DanielAquino2003/Personal-Projetcts): Personal Projects
 
-## Conéctate Conmigo
+## Contact with me
 
 <h3 align="center">Contact with me:</h3>
 <p align="center">
