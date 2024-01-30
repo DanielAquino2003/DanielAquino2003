@@ -26,17 +26,25 @@ Hi there! I'm Daniel Aquino, a computer engineering student at UAM and an active
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <!-- Ensamblador -->
-  <!-- Agrega el enlace y el icono correspondiente para el lenguaje ensamblador -->
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="URL_DEL_ICONO_DE_ENSAMBLADOR" alt="Ensamblador" width="40" height="40"/>
+  </a>
 </p>
 
 ### Infraestructuras o Frameworks
 <p align="left">
   <!-- MongoDB -->
-  <!-- Agrega el enlace y el icono correspondiente para MongoDB -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
   <!-- Cypher -->
-  <!-- Agrega el enlace y el icono correspondiente para Cypher -->
+  <a href="#" target="_blank" rel="noreferrer">
+    <img src="URL_DEL_ICONO_DE_CYPHER" alt="Cypher" width="40" height="40"/>
+  </a>
   <!-- Redis -->
-  <!-- Agrega el enlace y el icono correspondiente para Redis -->
+  <a href="https://redis.io/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
+  </a>
   <!-- SQL -->
   <a href="https://www.sql.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL" width="40" height="40"/>
