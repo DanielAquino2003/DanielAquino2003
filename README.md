@@ -23,7 +23,7 @@ Hi there! I'm Daniel Aquino, a computer engineering student at UAM and an active
 ![Redis](https://img.shields.io/badge/Redis-a?style=for-the-badge&logo=redis&color=grey)
 ![Docker](https://img.shields.io/badge/Docker-a?style=for-the-badge&logo=docker&color=grey)
 
-### 📦​ Frameworks
+#### 📦​ Frameworks
 ![Django](https://img.shields.io/badge/Django-a?style=for-the-badge&logo=django&color=grey)
 
 #### 🛠 Other tools
