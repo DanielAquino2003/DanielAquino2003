@@ -33,7 +33,6 @@ Hi there! I'm Daniel Aquino, a computer engineering student at UAM and an active
    ![Linux](https://img.shields.io/badge/Linux-a?style=for-the-badge&logo=linux&color=grey)
    ![Git](https://img.shields.io/badge/Git-a?style=for-the-badge&logo=git&color=grey)
 
-
 ## 📊 Stats
 
 <a> 
