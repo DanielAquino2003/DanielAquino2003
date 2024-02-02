@@ -8,7 +8,7 @@ Hi there! I'm Daniel Aquino, a computer engineering student at UAM and an active
 - [UAM](https://github.com/DanielAquino2003/UAM): UAM projects
 - [42](https://github.com/DanielAquino2003/42): 42 Projects
 - [Personal Projects](https://github.com/DanielAquino2003/Personal-Projetcts): Personal Projects
-- 
+
 #### 📖 Languages
 ![C](https://img.shields.io/badge/C-a?style=for-the-badge&logo=C&color=grey)
 ![Java](https://img.shields.io/badge/Java-a?style=for-the-badge&logo=java&logoColor=grey&color=grey)
