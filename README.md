@@ -1,4 +1,4 @@
-<img src='https://i.pinimg.com/originals/83/f6/5e/83f65e8c6efc88fabfcfbb11cf63bd8a.gif' height="470" width="1024" frameborder="0" scrolling="no"/>
+<img src='https://c10.patreonusercontent.com/4/patreon-media/p/post/45332200/fd8dd0261daf4c8c86b220458745ae48/eyJ3Ijo2MjB9/1.gif?token-time=1708128000&token-hash=bKd_Lcbw6yPacc4nkHFPkAIdv7u7kUhibuBRRB7iaac%3D' height="470" width="1024" frameborder="0" scrolling="no"/>
 
 # Daniel Aquino
 
