@@ -36,14 +36,6 @@ Hi there! I'm Daniel Aquino, a computer engineering student at UAM and an active
    ![Linux](https://img.shields.io/badge/Linux-a?style=for-the-badge&logo=linux&color=grey)
    ![Git](https://img.shields.io/badge/Git-a?style=for-the-badge&logo=git&color=grey)
 
-## 📊 Stats
-
-<a> 
-    <a href="https://github.com/DanielAquino2003"><img alt="Daniel Aquino's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=DanielAquino2003&show_icons=true&include_all_commits=true&theme=calm&card_width=300" height="180px"/></a>
-    <a href="https://github.com/DanielAquino2003"><img alt="Daniel Aquino's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=DanielAquino2003&langs_count=8&layout=compact&theme=calm&card_width=300" height="180px"/></a>
-    <br/>
-</a>
-
 
 ## 📞 Contact with me
 <p align="left">
