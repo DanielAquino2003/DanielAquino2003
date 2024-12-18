@@ -28,6 +28,7 @@ Hi there! I'm Daniel Aquino, a computer engineering student at UAM and an active
 #### 📦​ Frameworks
 ![Django](https://img.shields.io/badge/Django-a?style=for-the-badge&logo=django&color=grey)
 ![Vue](https://img.shields.io/badge/vue-a?style=for-the-badge&logo=vue&color=grey)
+![React](https://img.shields.io/badge/react-a?style=for-the-badge&logo=react&color=grey)
 
 #### 🛠 Other tools
 
