@@ -3,7 +3,7 @@
 # Daniel Aquino
 
 ## 👨🏻‍💻 About me
-Hi there! I'm Daniel Aquino, a computer engineering student at UAM (Universidad Autonoma de Madrid) and BUT (Brno University of technology). Passionate about coding and problem-solving, I love turning theoretical knowledge into practical solutions. Let's connect and explore the world of technology together! 💻✨
+Hi there! I'm Daniel Aquino, a computer engineering student at UAM (Universidad Autónoma de Madrid) and BUT (Brno University of Technology). I'm passionate about cybersecurity and penetration testing, focusing my development skills on strengthening systems and securing networks. With a strong foundation in coding and problem-solving, I strive to apply my theoretical knowledge to real-world security challenges. Let’s connect and dive into the world of ethical hacking and cybersecurity together! 💻🔐
 
 ## 💼 Featured projects
 
@@ -30,6 +30,11 @@ Hi there! I'm Daniel Aquino, a computer engineering student at UAM (Universidad 
 ![Django](https://img.shields.io/badge/Django-a?style=for-the-badge&logo=django&color=grey)
 ![Vue](https://img.shields.io/badge/vue-a?style=for-the-badge&logo=vue&color=grey)
 ![React](https://img.shields.io/badge/react-a?style=for-the-badge&logo=react&color=grey)
+
+#### 🛠 Pentesting Tools
+![BurpSuite](https://img.shields.io/badge/burpsuite-a?style=for-the-badge&logo=burpsuite&color=grey)
+![Nmap](https://img.shields.io/badge/Nmap-a?style=for-the-badge&logo=nmap&color=grey)
+![Wireshark](https://img.shields.io/badge/Wireshark-a?style=for-the-badge&logo=Wireshark&color=grey)
 
 #### 🛠 Other tools
 
