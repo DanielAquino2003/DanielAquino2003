@@ -8,9 +8,9 @@ Hi there! I'm Daniel Aquino, a computer engineering student at UAM (Universidad 
 ## 💼 Featured projects
 
 - [UAM](https://github.com/DanielAquino2003/UAM): UAM projects
+   - [Bachelor's Thesis](https://github.com/DanielAquino2003/TFG) 
 - [Personal Projects](https://github.com/DanielAquino2003/Personal-Projects): Personal Projects
    - [TrendWriter BackEnd](https://github.com/DanielAquino2003/TrendWriter/)
-   -  
 - [Pentesting WriteUps](https://github.com/DanielAquino2003/WriteUPs): Pentesting WriteUps
 
 #### 📖 Languages
