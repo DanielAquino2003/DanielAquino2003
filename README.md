@@ -3,7 +3,7 @@
 # Daniel Aquino
 
 ## 👨🏻‍💻 About me
-Hi there! I'm Daniel Aquino, a computer engineering student at UAM (Universidad Autónoma de Madrid) and BUT (Brno University of Technology). I'm passionate about cybersecurity and penetration testing, focusing my development skills on strengthening systems and securing networks. With a strong foundation in coding and problem-solving, I strive to apply my theoretical knowledge to real-world security challenges. Let’s connect and dive into the world of ethical hacking and cybersecurity together! 💻🔐
+Hi there! I'm Daniel Aquino, a computer engineering student at UAM (Universidad Autónoma de Madrid) and BUT (Brno University of Technology). I'm passionate about AI Engineering and software architecture, building intelligent systems, agentic workflows, and developer tools. I enjoy designing scalable architectures, experimenting with multi-agent systems, and turning complex AI concepts into practical products. 💻🔐
 
 ## 💼 Featured projects
 
