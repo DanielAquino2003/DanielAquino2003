@@ -11,6 +11,7 @@ Hi there! I'm Daniel Aquino, a computer engineering student at UAM (Universidad 
    - [Bachelor's Thesis](https://github.com/DanielAquino2003/TFG) 
 - [Personal Projects](https://github.com/DanielAquino2003/Personal-Projects): Personal Projects
    - [TrendWriter BackEnd](https://github.com/DanielAquino2003/TrendWriter/)
+   - [AI DJ](https://github.com/DanielAquino2003/DJ.AI)
 - [Pentesting WriteUps](https://github.com/DanielAquino2003/WriteUPs): Pentesting WriteUps
 
 #### 📖 Languages
