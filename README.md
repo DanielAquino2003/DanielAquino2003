@@ -57,7 +57,7 @@ Hi there! I'm Daniel Aquino, a computer engineering student at UAM (Universidad 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/google/google-original.svg" alt="Email" width="40" height="40"/>
   </a>
   <!-- Twitter -->
-  <a href="https://twitter.com/tu_usuario_de_twitter" target="_blank" rel="noreferrer" title="Twitter">
+  <a href="https://x.com/DanielAquinoDEV" target="_blank" rel="noreferrer" title="Twitter">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
   </a><br>
 </p>
