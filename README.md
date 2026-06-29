@@ -60,10 +60,11 @@ Hi there! I'm Daniel Aquino, a computer engineering student at UAM (Universidad 
   <a href="https://x.com/DanielAquinoDEV" target="_blank" rel="noreferrer" title="Twitter">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
   </a>
-
+   
   <a href="https://portfolio.daniel-aquino.com" target="_blank" rel="noreferrer"
   title="Portfolio">
     <img src="https://cdn.simpleicons.org/aboutdotme/ffffff" alt="Portfolio"
     width="40" height="40"/>
-  </a><br>
+  </a>
+  <br>
 </p>
